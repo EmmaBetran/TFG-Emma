@@ -1,5 +1,5 @@
 # TFG-Emma
-En aquest "Repository" hi ha els codis utilitzats en el meu TFG.  Aquests codis tarden massa en compilar pel "google colab". Recomano utilitzar el "jupyter notebook". A continuació s'explica el contingut de cada fitxer:
+En aquest "Repository" hi ha els codis utilitzats en el meu TFG. Aquests codis tarden massa en compilar pel "google colab". Recomano utilitzar el "jupyter notebook". A continuació s'explica el contingut de cada fitxer:
 
 **"mesures en cada pressió annex":** Programa per saber quantes dades de cada pressió té l'excel. Així, s'han pres les dades de les pressions que tenen mesures quasi cada dia.
 
